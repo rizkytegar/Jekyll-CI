@@ -95,5 +95,7 @@ env:
     - JEKYLL_VERSION="~> 4.0"
 ```
 
-
 ## Reference
+
+- https://jekyllrb.com/docs/continuous-integration/travis-ci/
+- https://jekyllrb.com/docs/continuous-integration/github-actions/
