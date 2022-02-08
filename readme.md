@@ -5,7 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Conducted Continuous Integration Tests on Jekyll with Github Action and Travis CI.
+Conducted Continuous Integration Tests on Jekyll with Github Action, CircleCI and Travis CI.
 
 ## Github Action
 
