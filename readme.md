@@ -99,6 +99,9 @@ env:
     - JEKYLL_VERSION="~> 3.9"
     - JEKYLL_VERSION="~> 4.0"
 ```
+## CircleCI
+
+coming soon
 
 ## Reference
 
