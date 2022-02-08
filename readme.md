@@ -1,4 +1,7 @@
-# Jekyll CI
+<p align="center" width="300">
+   <img align="center" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Jekyll_%28software%29_Logo.png" />
+   <h1 align="center">Jekyll Continuous Integration</h1>
+</p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -99,5 +102,5 @@ env:
 
 ## Reference
 
-- https://jekyllrb.com/docs/continuous-integration/travis-ci/
-- https://jekyllrb.com/docs/continuous-integration/github-actions/
+- [Travis CI](https://jekyllrb.com/docs/continuous-integration/travis-ci/)
+- [Github Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/)
