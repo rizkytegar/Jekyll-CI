@@ -4,8 +4,9 @@
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![cp](https://img.shields.io/badge/powered%20by-jekyll-red.svg)](https://jekyllrb.com/)
 
-Conducted Continuous Integration Tests on Jekyll with Github Action and Travis CI.
+Conducted Continuous Integration Tests on Jekyll with Github Action, CircleCI and Travis CI.
 
 ## Github Action
 
@@ -99,6 +100,9 @@ env:
     - JEKYLL_VERSION="~> 3.9"
     - JEKYLL_VERSION="~> 4.0"
 ```
+## CircleCI
+
+coming soon
 
 ## Reference
 
