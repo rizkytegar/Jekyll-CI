@@ -102,9 +102,12 @@ env:
 ```
 ## CircleCI
 
-coming soon
+CircleCI supports GitHub and Bitbucket, and you can get started for free using an open-source or private repository.
+
+Setup ```.circleci/config.yml```
 
 ## Reference
 
 - [Travis CI](https://jekyllrb.com/docs/continuous-integration/travis-ci/)
 - [Github Actions](https://jekyllrb.com/docs/continuous-integration/github-actions/)
+- [CircleCI](https://jekyllrb.com/docs/continuous-integration/circleci/)
