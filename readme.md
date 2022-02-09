@@ -104,8 +104,22 @@ env:
 
 CircleCI supports GitHub and Bitbucket, and you can get started for free using an open-source or private repository.
 
-Setup ```.circleci/config.yml```
+Example Setup with Bitbucket, Docker, and AWS CLI
 
+Check ```circleci/config.yml```
+
+Change S3_BUCKET_NAME env
+
+```
+  environment:
+      S3_BUCKET_NAME: <<YOUR BUCKET NAME HERE>>
+ ```
+Docker image
+
+```
+ docker:
+      - image: cimg/ruby:2.7.4
+```
 ## Reference
 
 - [Travis CI](https://jekyllrb.com/docs/continuous-integration/travis-ci/)
