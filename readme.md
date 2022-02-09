@@ -106,7 +106,7 @@ CircleCI supports GitHub and Bitbucket, and you can get started for free using a
 
 Example Setup with Bitbucket, Docker, and AWS CLI
 
-Check ```circleci/config.yml```
+Check ```circleci/config-bucket-example.yml```
 
 Change S3_BUCKET_NAME env
 
