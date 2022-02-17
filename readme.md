@@ -5,6 +5,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![cp](https://img.shields.io/badge/powered%20by-jekyll-red.svg)](https://jekyllrb.com/)
+![prettier version](https://img.shields.io/badge/prettier-1.2.0-brightgreen)
 
 Conducted Continuous Integration Tests on Jekyll with Github Action, CircleCI and Travis CI.
 
