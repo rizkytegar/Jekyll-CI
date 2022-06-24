@@ -45,7 +45,7 @@ jobs:
             - _site
   deploy:
     docker:
-      - image: cimg/python:3.10.4
+      - image: cimg/python:3.10.5
     environment:
       S3_BUCKET_NAME: <<YOUR BUCKET NAME HERE>>
     steps:
